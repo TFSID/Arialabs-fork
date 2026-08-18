@@ -197,7 +197,7 @@ SERVICES_DATA['photo-video'] = {
   badge: 'Visual Production',
   tagline: 'Produksi Foto & Video Sinematik untuk Menghidupkan Cerita Brand Anda',
   description: 'Kami memproduksi konten fotografi dan videografi berkualitas tinggi untuk kebutuhan produk, brand campaign, event, hingga konten media sosial dengan pendekatan sinematik yang memikat.',
-  mascot: '/assets/images/characters/aria-service/aria-photovideo.webp',
+  mascot: '/assets/images/characters/aria-service/aria-photo%26video.webp',
   categoryName: 'Photo & Video',
   benefits: [
     {
