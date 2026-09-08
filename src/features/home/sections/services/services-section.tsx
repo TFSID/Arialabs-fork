@@ -54,7 +54,7 @@ const SERVICES = [
     title: 'Photo & Video',
     descId: 'Produksi fotografi dan videografi profesional untuk produk, brand, event, hingga konten media sosial dengan hasil visual sinematik berkualitas tinggi.',
     descEn: 'Professional photography and videography production for products, brands, events, and social media content with cinematic, high quality visuals.',
-    image: '/assets/images/characters/aria-service/aria-photovideo.webp',
+    image: '/assets/images/characters/aria-service/aria-photo%26video.webp',
     href: '/layanan/photo-video',
   },
 ]
